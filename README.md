@@ -13,7 +13,7 @@
 
 * (2020) https://www.standwithmed.tw/ - COVID-19 感謝臺灣醫事人員辛勞的慰勞平台。
 * (2020) https://taiwancanhelp.us/ - 紐約時報廣告 TaiwanCanHelp 官方網站。
-* (2019) https://backtail.tw/ - 全臺灣最專業的集資趨勢資訊平台。
+* (2019 - *) https://backtail.tw/ - 全臺灣最專業的集資趨勢資訊平台。
 * (2019) https://en.backer-founder.com/ - 貝殼放大英文官網，使用 Three.js 製作 3D 波浪與粒子效果。
 * (2019) https://gogoroism.com/ - Gogoroism，Gogoro 活動網站。
 * (2018 - *) https://backme.tw/ - 貝殼集器是臺灣最專業的獨立集資工具。
