@@ -1,4 +1,4 @@
-# 囍樹設計官網
+# Cizoo 囍樹設計官網
 
 ![2014_cizoo](./2014_cizoo.png)
 
@@ -14,8 +14,9 @@
 
 ## 技術棧
 
-* 後端：Node.js、MongoDB
 * 前端：jQuery
+* 後端：Node.js、Express.js、MongoDB
+* 伺服器：PM2、Nginx、AWS EC2
 
 ## 設計
 
