@@ -21,7 +21,7 @@
 * (2018) https://chipolinmuseum.org/ - 齊柏林共建空間集資專案。
 * (2018) https://mrliving.backer-founder.com/ ~~http://game.mrliving.com.tw/~~ - Web 遊戲，使用 Pixi.js，現在新的行動裝置不支援陀螺儀只能用桌電玩。
 * (2017) https://eventor.friday.tw/ - 使用 Vue.js 撰寫的電子報組版系統，公司內部系統。
-* (2017) http://eastbounder.com/ - 以人為中心探索亞洲城市生活風格的資訊平台。
+* (2017) http://eastbounder.com/ - 東遇內容管理系統，以人為中心探索亞洲城市生活風格的資訊平台。
 * (2014) http://cizoo.com/ - 囍樹設計官網，使用 Node.js 和 MongoDB。
 
 ## Programing
